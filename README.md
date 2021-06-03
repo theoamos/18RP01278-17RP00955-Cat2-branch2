@@ -22,7 +22,6 @@ download xamp (its php has version7.3)
 -localdisc c
 -xamp
 -start(apache,mysql)
-
 ->download composer(setup.exe)
 2.instal composer
 -local disc c
