@@ -39,14 +39,15 @@ user.php
 post.php
 
 Database is
-========
+===========
 miniproject
 
 table name is
-====
+============
 posts
-View:
-=====
+
+ResourceView:
+=============
 Created Folder"layouts" which contains the following view
 =======================
 *addform.blade.php
